@@ -21,8 +21,6 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: SARAVANA KUMAR
 RegisterNumber: 212222230133 
 */
-```
-```
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier,plot_tree
 from sklearn.preprocessing import LabelEncoder
